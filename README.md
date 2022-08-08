@@ -2,8 +2,8 @@
 
 # Hi, I'm Leon! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-###### React Front-End Developer
-###### *"Each day better than yesterday!"*
+###### <h4>React Front-End Developer</h1>
+###### <h4>*"Each day better than yesterday!"*</h4>
  
 # 🧠:
 
