@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/yurileon/"/></a> 
   <a href="https://www.instagram.com/yurileon_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/yurileon_"/></a>
-  <a href="https://discord.gg/ZdSECpBT4t" target="_blank">
+  <a href="https://discord.gg/wy9HnRjCbN" target="_blank">
   <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link"></a>
   <a href = "mailto:yuri.leon95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
