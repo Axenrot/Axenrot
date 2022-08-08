@@ -2,11 +2,12 @@
 
 # Hi, I'm Leon! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-###### <h4>React Front-End Developer</h1>
-###### <h4>*"Each day better than yesterday!"*</h4>
  
-# 🧠:
+###### <h4 align="center">React Front-End Developer</h4>
+###### <h4 align="center">*"Each day better than yesterday!"*</h4>
+ 
 
+##
 ![React](https://img.shields.io/badge/ReactJS-323330?style=for-the-badge&logo=react&logoColor=61DBFB)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
