@@ -16,6 +16,7 @@
 ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=F05033)
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 <div>
   <a href="https://github.com/Axenrot">
