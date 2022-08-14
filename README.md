@@ -8,13 +8,16 @@
  
 
 ##
-![React](https://img.shields.io/badge/ReactJS-323330?style=for-the-badge&logo=react&logoColor=61DBFB)
+![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DBFB)
+![Next JS](https://img.shields.io/badge/Next-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwind-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=865dc4)
 ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=F05033)
-![Node.js](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <div>
   <a href="https://github.com/Axenrot">
