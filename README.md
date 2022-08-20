@@ -9,6 +9,7 @@
 ![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DBFB)
 ![Next JS](https://img.shields.io/badge/Next-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwind-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Green Sock](https://img.shields.io/badge/green%20sock-%23323330.svg?style=for-the-badge&logo=greensock&logoColor=88ce02)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
