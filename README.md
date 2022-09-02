@@ -15,10 +15,10 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwind-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Green Sock](https://img.shields.io/badge/greensock-%23323330.svg?style=for-the-badge&logo=greensock&logoColor=88ce02)
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=4173bd)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=865dc4)
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=c%2B%2B&logoColor=1572B6)
+![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4173bd)
 
 
 <div>
