@@ -36,7 +36,7 @@
    
 <div style="display: inline_block"><br> 
   <a href="http://theleon.pro" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=appveyor&logoColor=e34c26&link=https://www.linkedin.com/in/yurileon/"/></a> 
+  <img src="https://img.shields.io/badge/-Portfolio-e34c26?style=for-the-badge&logo=appveyor&logoColor=1C1C1C&link=https://www.linkedin.com/in/yurileon/"/></a> 
   <a href="https://www.linkedin.com/in/yurileon/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=e34c26&link=https://www.linkedin.com/in/yurileon/"/></a> 
   <a href="https://www.instagram.com/yurileon_/" alt="Instagram">
