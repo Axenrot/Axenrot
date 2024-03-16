@@ -5,8 +5,8 @@
 ###### <h4 align="center">*"Each day better than yesterday!"*</h4>
  
 
-##
 <div align="center">
+##
   ![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DBFB)
   ![Next JS](https://img.shields.io/badge/Next-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-323330?style=for-the-badge&logo=typescript&logoColor=4173bd)
